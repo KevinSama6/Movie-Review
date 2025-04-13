@@ -1,5 +1,7 @@
 # Hello there! Welcome to our Movie Review Analysis: Sentiment, Score, and Critic Classification project!
 
+# Dataset Address:https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
+
 ## Overview
 This project focuses on analyzing movie reviews using machine learning. It includes three tasks:
 1. **Sentiment Classification** — Determine whether a review is positive or negative.
